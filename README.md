@@ -8,8 +8,6 @@
 ### 🛠 المهارات التي أتعلمها
 I done Introduction to C++ , then I will go to course Data Structures With Dr. Mohammad Abu Hadhud on platform (PROGRAMMING ADVICES)_ 
 
-### 📈 إحصائيات GitHub الخاصة بي
-![إحصائيات إحسان](https://github-readme-stats.vercel.app/api?username=EhsanTahanO&show_icons=true&theme=radical)
 
 ### 📫 كيف تجدني؟
 - يمكنك متابعتي هنا على GitHub لرؤية مشاريعي القادمة.
