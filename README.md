@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 أهلاً بك في ملفي الشخصي، أنا إحسان!
 
-<!--
-**EhsanTahanO/EhsanTahanO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 عني
+- 🎓 لقد بدأت رحلتي للتو في عالم البرمجة وGitHub.
+- 🚀 أنهيت بنجاح دورة "Introduction to GitHub" من GitHub Skills.
+- 📚 أتعلم حالياً كيفية بناء المشاريع وإدارة الأكواد باحترافية.
 
-Here are some ideas to get you started:
+### 🛠 المهارات التي أتعلمها
+I done Introduction to C++ , then I will go to course Data Structures With Dr. Mohammad Abu Hadhud on platform (PROGRAMMING ADVICES)_ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 إحصائيات GitHub الخاصة بي
+![إحصائيات إحسان](https://github-readme-stats.vercel.app/api?username=EhsanTahanO&show_icons=true&theme=radical)
+
+### 📫 كيف تجدني؟
+- يمكنك متابعتي هنا على GitHub لرؤية مشاريعي القادمة.
+-]
+
+---
+*هذا الملف تم تحديثه بعد إنهاء أول دورة لي في GitHub! 🎯*
