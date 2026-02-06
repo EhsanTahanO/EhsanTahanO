@@ -1,17 +1,16 @@
-# 👋 أهلاً بك في ملفي الشخصي، أنا إحسان!
+# 👋 Welcome to my profile, I'm Ehsan!
 
-### 🧑‍💻 عني
-- 🎓 لقد بدأت رحلتي للتو في عالم البرمجة وGitHub.
-- 🚀 أنهيت بنجاح دورة "Introduction to GitHub" من GitHub Skills.
-- 📚 أتعلم حالياً كيفية بناء المشاريع وإدارة الأكواد باحترافية.
+### 🧑‍💻 About Me
+- 🎓 I have just started my journey in the world of programming and GitHub.
+- 🚀 Successfully completed the "Introduction to GitHub" course by GitHub Skills.
+- 📚 Currently learning how to build projects and manage code professionally.
 
-### 🛠 المهارات التي أتعلمها
-I done Introduction to C++ , then I will go to course Data Structures With Dr. Mohammad Abu Hadhud on platform (PROGRAMMING ADVICES)_ 
+### 🛠 Skills & Learning Path
+- I have completed "Introduction to C++".
+- Next, I will be taking the "Data Structures" course with Dr. Mohammad Abu Hadhud on the (PROGRAMMING ADVICES) platform.
 
-
-### 📫 كيف تجدني؟
-- يمكنك متابعتي هنا على GitHub لرؤية مشاريعي القادمة.
--]
+### 📫 How to reach me?
+- You can follow me here on GitHub to see my upcoming projects.
 
 ---
-*هذا الملف تم تحديثه بعد إنهاء أول دورة لي في GitHub! 🎯*
+*This file was updated after completing my first GitHub course! 🎯*
